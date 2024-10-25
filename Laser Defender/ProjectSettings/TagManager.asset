@@ -45,9 +45,15 @@ TagManager:
   - name: Background
     uniqueID: 1689335797
     locked: 0
+  - name: Laser
+    uniqueID: 3720057099
+    locked: 0
   - name: Player
     uniqueID: 2439562137
     locked: 0
   - name: Enemy
     uniqueID: 3314607227
+    locked: 0
+  - name: Explosion
+    uniqueID: 955453775
     locked: 0
